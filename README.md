@@ -15,3 +15,6 @@ Probably everything in Data Science is here
 
 How handle a real life project
 - https://github.com/dformoso
+
+Complete guide to EDA
+- https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
