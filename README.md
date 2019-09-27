@@ -12,3 +12,6 @@ Handling Categorical Data in Python
 
 Probably everything in Data Science is here
 - https://chrisalbon.com/
+
+How handle a real life project
+- https://github.com/dformoso
