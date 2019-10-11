@@ -1,5 +1,10 @@
 # Data Science Machine Learning Deep Learning Python
 
+## Kaggle:
+
+How to become a Data Scientic topic wise-guide
+- https://www.kaggle.com/mjbahmani/the-data-scientist-s-toolbox-tutorial-2
+
 ## Books:
 
 1) Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow
