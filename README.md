@@ -10,6 +10,10 @@ How to become a Data Scientic topic wise-guide
 1) Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow
 - https://github.com/ageron/handson-ml2
 
+## sklearn documentation
+
+-https://scikit-learn.org/dev/modules/classes.html
+
 ## Useful links:
 
 Handling Categorical Data in Python
