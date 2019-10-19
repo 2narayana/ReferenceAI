@@ -5,6 +5,9 @@
 How to become a Data Scientic topic wise-guide
 - https://www.kaggle.com/mjbahmani/the-data-scientist-s-toolbox-tutorial-2
 
+How to setup Kaggle API on Paperspace
+- https://www.machineplay.io/blog/setting-up-the-kaggle-api-on-your-paperspace-machine/
+
 ## Books:
 
 1) Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow
