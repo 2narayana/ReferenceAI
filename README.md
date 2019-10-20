@@ -8,6 +8,10 @@ How to become a Data Scientic topic wise-guide
 How to setup Kaggle API on Paperspace
 - https://www.machineplay.io/blog/setting-up-the-kaggle-api-on-your-paperspace-machine/
 
+## YouTube
+Machine Learning for begineers
+- https://github.com/laxmimerit/Linear-Regression-Machine-Learning-Crash-Course
+
 ## Books:
 
 1) Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow
