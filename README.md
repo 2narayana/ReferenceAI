@@ -12,6 +12,9 @@ How to setup Kaggle API on Paperspace
 Machine Learning for begineers
 - https://github.com/laxmimerit/Linear-Regression-Machine-Learning-Crash-Course
 
+Feature selection
+- https://github.com/laxmimerit/Feature-Selection-with-Filtering-Method--Constant-Quasi-Constant-Duplicate-and-Correlated-Feature
+
 ## Books:
 
 1) Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow
