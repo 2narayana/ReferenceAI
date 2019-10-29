@@ -25,8 +25,7 @@ Feature selection
 -https://scikit-learn.org/dev/modules/classes.html
 
 ## Pandas
-- Cheat sheet
-- https://www.w3resource.com/python-exercises/pandas/index.php
+- Cheat sheet - https://www.w3resource.com/python-exercises/pandas/index.php
 
 ## Useful links:
 
