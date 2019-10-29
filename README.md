@@ -24,6 +24,10 @@ Feature selection
 
 -https://scikit-learn.org/dev/modules/classes.html
 
+## Pandas
+- Cheat sheet
+- https://www.w3resource.com/python-exercises/pandas/index.php
+
 ## Useful links:
 
 Handling Categorical Data in Python
