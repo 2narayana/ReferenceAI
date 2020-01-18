@@ -1,5 +1,11 @@
 # Data Science Machine Learning Deep Learning Python
 
+## Data Sources
+
+for predictive modeling
+- https://github.com/rajeevratan84/datascienceforbusiness
+follow Loading_Data_From_Github_Raw.ipynb to load data from github
+
 ## Kaggle:
 
 How to become a Data Scientic topic wise-guide
