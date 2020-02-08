@@ -24,8 +24,11 @@ Feature selection
 
 ## Books:
 
-1) Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow
+1) Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (2019)
 - https://github.com/ageron/handson-ml2
+
+2) Python Machine Learning (3rd Ed.) (2019)
+- https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
 ## sklearn documentation
 
