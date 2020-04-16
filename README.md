@@ -16,6 +16,7 @@ How to setup Kaggle API on Paperspace
 - https://www.machineplay.io/blog/setting-up-the-kaggle-api-on-your-paperspace-machine/
 
 How to setup Kaggle API on Colab
+- https://gist.github.com/ManojKumarTiwari/b2df16ab05280b7795c06583e393acda
 - https://www.youtube.com/watch?v=o94WNdQMEmg&list=PLc2rvfiptPSR3iwFp1VHVJFK4yAMo0wuF&index=6
 - https://medium.com/@saedhussain/google-colaboratory-and-kaggle-datasets-b57a83eb6ef8
 
