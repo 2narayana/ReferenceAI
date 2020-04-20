@@ -41,6 +41,7 @@ Feature selection
 
 ## Pandas
 - Cheat sheet - https://www.w3resource.com/python-exercises/pandas/index.php
+- EDA using Pandas Profiling - https://towardsdatascience.com/accelerate-your-exploratory-data-analysis-with-pandas-profiling-4eca0cb770d1
 
 ## Useful links:
 
