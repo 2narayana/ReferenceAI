@@ -42,6 +42,7 @@ Feature selection
 ## Pandas
 - Cheat sheet - https://www.w3resource.com/python-exercises/pandas/index.php
 - EDA using Pandas Profiling - https://towardsdatascience.com/accelerate-your-exploratory-data-analysis-with-pandas-profiling-4eca0cb770d1
+- Pandas Column having List as values - https://chrisalbon.com/python/data_wrangling/pandas_expand_cells_containing_lists/
 
 ## Useful links:
 
