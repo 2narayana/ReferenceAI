@@ -57,3 +57,6 @@ How handle a real life project
 
 Complete guide to EDA
 - https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/
+
+Neural Network and Machine Learning model viewer software
+- https://github.com/lutzroeder/netron
