@@ -60,3 +60,23 @@ Complete guide to EDA
 
 Neural Network and Machine Learning model viewer software
 - https://github.com/lutzroeder/netron
+
+## Useful Tools
+
+Kite, Mypy and SonarLint use case in details
+- https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084
+
+Kite Plugin
+- https://kite.com/
+- Use
+  1. Line-of-Code Completions
+  2. Copilot for Documentation
+  3. Runs Locally, Privately
+
+Mypy Python Module
+  - http://www.mypy-lang.org/
+  - Convert your python to statically typed language with the existing features. This makes transition from different languages like Java, Scala, Dart, Go, C, C++ etc easy
+  
+SonarLint Editor Plugin
+  - https://www.sonarlint.org/
+  - Find Errors Faster and Write Simpler Functions with Sonarlint
