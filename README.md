@@ -61,6 +61,9 @@ Complete guide to EDA
 Neural Network and Machine Learning model viewer software
 - https://github.com/lutzroeder/netron
 
+Evaluating Time Series Models
+- https://machinelearningmastery.com/simple-time-series-forecasting-models/
+
 ## Useful Tools
 
 Kite, Mypy and SonarLint use case in details
