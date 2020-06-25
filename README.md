@@ -35,6 +35,9 @@ Feature selection
 2) Python Machine Learning (3rd Ed.) (2019)
 - https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
+3) Practical Statistics for Data Scientists, 2nd Edition (2020)
+- https://github.com/gedeck/practical-statistics-for-data-scientists/tree/master/python/notebooks
+
 ## sklearn documentation
 
 -https://scikit-learn.org/dev/modules/classes.html
