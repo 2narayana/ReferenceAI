@@ -38,6 +38,9 @@ Feature selection
 3) Practical Statistics for Data Scientists, 2nd Edition (2020)
 - https://github.com/gedeck/practical-statistics-for-data-scientists/tree/master/python/notebooks
 
+4) Python Machine Learning Blueprints - Second Edition (2020)
+- https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints-Second-Edition
+
 ## sklearn documentation
 
 -https://scikit-learn.org/dev/modules/classes.html
