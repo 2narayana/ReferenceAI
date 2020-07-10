@@ -72,6 +72,9 @@ Evaluating Time Series Models
 
 ## Useful Tools
 
+Everything new in ML and DL can be found here. The utimate source
+- https://creative-ai.org/
+
 Kite, Mypy and SonarLint use case in details
 - https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084
 
